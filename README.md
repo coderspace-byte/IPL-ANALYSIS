@@ -2,4 +2,4 @@ This project presents an end-to-end data analysis of IPL (Indian Premier League)
 
 The goal of this project is to analyze match data, uncover trends, and visualize key performance metrics of teams and players.
 
-![IPL Dashboard](DASHBOARD IMAGE.png)
+![IPL Dashboard](DASHBOARD_IMAGE.png)
